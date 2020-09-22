@@ -35,6 +35,7 @@ def prime_integer_summation() -> int:
     return sum(prime)
 
 
+
 def factorial(number: int) -> int:
     return 0
 
