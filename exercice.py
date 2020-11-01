@@ -39,7 +39,6 @@ def factorial(number: int) -> int:
     for i in range(2, number + 1):
         factorial_value *= i
     return factorial_value
-hello
 
 
 def use_continue() -> None:
